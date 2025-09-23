@@ -26,14 +26,24 @@ The aim is to practice and strengthen problem-solving skills in C — from basic
 | 2 | Fibonacci (Iterative & Recursion) | Print Fibonacci series using both methods   |
 | 3 | Check Even or Odd                 | Determine if a number is even or odd        |
 | 4 | Swap Two Numbers                  | Swap using a temp variable & without one    |
+| 5 |	Reverse an Array (Two Methods)	  | Reverse the array using two different       |
+|   |                                   | approaches                                  |
+| 6 |	Find Largest, Smallest, Second    | Find the largest, smallest, and             |
+|   | Largest                           | second-largest element in the array         |    	                         
+| 7 |	Rotate Array Left/Right by 2      | Rotate an array to the left or right        |
+|   |  Positions                        | by 2 positions                              |
+| 8 |	Print Prime Numbers in Range      |	Print all prime numbers within a given range|
+
 
 🟡 Medium (Intermidiate Level)
-| # | Question                          | Description                                 |
-| - | --------------------------------- | ------------------------------------------- |
-| 1 |                                   |                                             |
-| 2 |                                   |                                             |
-| 3 |                                   |                                             |
-| 4 |                                   |                                             |
+| # | Question                           | Description                                 |
+| - | ---------------------------------  | ------------------------------------------- |
+| 1 | Find Missing Number in Array (1–N) | Find the missing number in an array         |
+|   |                                    | -containing numbers from 1 to N             |
+| 2 | Find Duplicates in Array           | Identify duplicates in an array, including  |
+|   | (Including-First Duplicate)        | the first duplicate found                   |
+| 3 | Find Majority Element              | find majority elements in an array          |
+
 
 🔴 Hard (Advance level)
 | # | Question                          | Description                                 |
